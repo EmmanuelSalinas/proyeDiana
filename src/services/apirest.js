@@ -1,0 +1,1 @@
+export const Apiurl="https://dev-serf.aws.libertyfianzas.com/primas/";
